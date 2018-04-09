@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Chinese morra</string>
+    <string name="title_activity_regolamento" translatable="false">Rules</string>
+    <string name="title_activity_regole" translatable="false">Rules</string>
+    <string name="Gioca">Play</string>
+    <string name="regol">The purpose is to defeat the adversary choosing a sign able to beat that some other, according to the following rules: The stone breaks the scissors (it wins the stone) her scissors they cut the paper (they win the scissors) her paper it winds the stone (it wins the paper) If the two players choose the same weapon, the game is equal and he plays again.</string>
+    <string name="infinito">Infinite</string>
+    <string name="tre">To the best of 3</string>
+    <string name="cinque">To the best of 5</string>
+    <string name="mossa">Choose one</string>
+    <string name="pero">You lose...</string>
+    <string name="pareggio">Draw</string>
+    <string name="vinto">You win!</string>
+    <string name="round">ROUND N°</string>
+    <string name="cpu">CPU</string>
+    <string name="tu">YOU</string>
+    <string name="titolo">ROCK-PAPER-SCISSORS</string>
+    <string name="Ritorno">Back to menù</string>
+</resources>

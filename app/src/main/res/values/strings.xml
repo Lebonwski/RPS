@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Morra cinese</string>7
+    <string name="title_activity_regole">Regole</string>
+    <string name="title_activity_regolamento">Regolamento</string>
+    <string name="regol">Lo scopo è sconfiggere l avversario scegliendo un segno in grado di battere quello dell altro, secondo le seguenti regole:  Il sasso spezza le forbici (vince il sasso) Le forbici tagliano la carta (vincono le forbici) La carta avvolge il sasso (vince la carta) Se i due giocatori scelgono la stessa arma, il gioco è pari e si gioca di nuovo.</string>
+    <string name="Gioca">Gioca ad oltranza</string>
+    <string name="tre">Gioca al meglio di 3</string>
+    <string name="cinque">Gioca al meglio di 5</string>
+    <string name="infinito">Ad Oltranza</string>
+    <string name="titolo">PIERA-CARTON-FORFE</string>
+    <string name="tu">TU</string>
+    <string name="cpu">CPU</string>
+    <string name="round">ROUND N°</string>
+    <string name="vinto">Hai Vinto!</string>
+    <string name="pareggio">Pareggio</string>
+    <string name="mossa">Scegli una mossa</string>
+    <string name="pero">Hai Perso...</string>
+    <string name="Ritorno">Torna al menù</string>
+
+</resources>
